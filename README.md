@@ -1,6 +1,6 @@
 # mlflow-claude-tracer
 
-A lightweight starter project for testing Claude Code tracing with MLflow.
+Trace and inspect Claude Code sessions locally using MLflow — token usage, tool calls, and session history in one dashboard.
 
 ## Overview
 
