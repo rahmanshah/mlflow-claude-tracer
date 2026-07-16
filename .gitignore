@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+.python-version
+
+# Local MLflow artifacts and database
+mlartifacts/
+mlflow.db
+
+# Local Claude configuration overrides
+.claude/settings.local.json
+
+# Environment files
+.env
+.env.*
