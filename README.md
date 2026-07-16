@@ -1,4 +1,4 @@
-# mlflow-claude-tracer
+# mlflow-claude-code-tracer
 
 Trace and inspect Claude Code sessions locally using MLflow — token usage, tool calls, and session history in one dashboard.
 
